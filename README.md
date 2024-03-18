@@ -1,3 +1,3 @@
 Using React
 
-Using the Styled Component Library
+Using Styled-Components Library
